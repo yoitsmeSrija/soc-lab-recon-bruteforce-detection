@@ -31,7 +31,7 @@ On September 16, 2026, a simulated reconnaissance scan (Nmap) followed by an SSH
 Mapping the attack to the [MITRE ATT&CK](https://attack.mitre.org/) framework — the industry-standard reference used by SOC teams to classify adversary behavior:
 
 | Stage | Technique | ID |
-|---|---|---|
+
 | Reconnaissance | Network Service Discovery | [T1046](https://attack.mitre.org/techniques/T1046/) |
 | Credential Access | Brute Force — Password Guessing | [T1110.001](https://attack.mitre.org/techniques/T1110/001/) |
 
